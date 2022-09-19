@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">appContacts</string>
+    <string name="textName">Nombre</string>
+    <string name="textCell">Cell:</string>
+</resources>
